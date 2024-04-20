@@ -1,8 +1,8 @@
-SKOR BAR (Alternate version)
+# SKOR BAR (Alternate version)
 
 Line cookie sheet with foil. Layer unsalted crackers or graham wafers on cookie sheet.
-1/2 lb butter
-1 cup brown sugar
+- 1/2 lb butter
+- 1 cup brown sugar
 
 Boil together for 3 min and pour over crackers covering completely.
 
