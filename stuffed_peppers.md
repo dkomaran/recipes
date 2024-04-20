@@ -1,4 +1,4 @@
-Stuffed Peppers
+# Stuffed Peppers
 
 Preheat oven to 400°F. Cut off tops of bell peppers. Remove seeds and membranes. Rinse bell peppers. If necessary, cut thin slice from bottom of each pepper so they stand upright. Set aside.
 
