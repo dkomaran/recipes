@@ -1,18 +1,18 @@
-Brown Sugar Pudding
+# Brown Sugar Pudding
 
-INGREDIENTS
+## INGREDIENTS
 
-1 cup light brown sugar
-3/4 cup milk
-1 cup flour
-1 teaspoon baking powder
-1 teaspoon butter
-1 cup pecans
-1 teaspoon vanilla
-1 cup brown sugar
-1-1/2 cups hot water
+- 1 cup light brown sugar
+- 3/4 cup milk
+- 1 cup flour
+- 1 teaspoon baking powder
+- 1 teaspoon butter
+- 1 cup pecans
+- 1 teaspoon vanilla
+- 1 cup brown sugar
+- 1-1/2 cups hot water
 
-INSTRUCTIONS
+## INSTRUCTIONS
 
 Mix together  1 cup brown sugar, milk, flour, baking powder, butter, pecans and vanilla and pour into 2-quart baking dish. 
 
