@@ -1,16 +1,16 @@
-Cinnamon Snails
+# Cinnamon Snails
 
 In a large bowl put:
-• 5 cups flour
-• 1/2 tsp salt
-• 1 lb margarine
+- 5 cups flour
+- 1/2 tsp salt
+- 1 lb margarine
 
 Mix them together until crumbly and set aside.
 
 In another dish put:
-• 1 cup lukewarm milk
-• 2 packages yeast (tradition, not fast rising)
-• 2 Tbsp sugar
+- 1 cup lukewarm milk
+- 2 packages yeast (tradition, not fast rising)
+- 2 Tbsp sugar
 
 Mix and let stand for 10 min to rise.
 
