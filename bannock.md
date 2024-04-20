@@ -1,13 +1,13 @@
-Bannock
+# Bannock
 
 Ingredients
 
-3 cups all propose flour 
-1 teaspoon salt
-2 tablespoons baking powder 
-¼ cup butter melted
-1 1/2 cups water 
-1 tablespoon white sugar
+* 3 cups all propose flour 
+* 1 teaspoon salt
+* 2 tablespoons baking powder 
+* ¼ cup butter melted
+* 1 1/2 cups water 
+* 1 tablespoon white sugar
 
 Directions
 
