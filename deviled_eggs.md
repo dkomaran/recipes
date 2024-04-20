@@ -1,4 +1,4 @@
-# Ingredients
+## Ingredients
 
 - 6 eggs
 - 1/4 cup mayonnaise
