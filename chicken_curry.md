@@ -16,4 +16,4 @@ Mix rest of ingredients (except for chesse) in a bowl.
 - Pour mixture over top
 - Top with grated cheese
 
-Bake for 35 minu at 375F
+Bake for 35 minutes at 375F
