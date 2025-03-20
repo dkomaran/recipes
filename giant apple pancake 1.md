@@ -1,4 +1,4 @@
-# GIANT APPLE PANCAKE #1 x
+# GIANT APPLE PANCAKE #1
 
 ## Ingredients
 
