@@ -1,18 +1,15 @@
-2 granny smith apples peeled , cored and sliced. 
+#GIANT APPLE PANCAKE #1
 
-1/3 cup brown sugar (packed) 
+##Ingredients
 
-2 or 3 tablespoons of butter 
-
-1 level teaspoon cinnamon 
-
-4 extra large eggs 
-
-1 level cup flour 
-
-1 cup whole milk 
-
-1 level teaspoon baking powder 
+* 2 granny smith apples peeled , cored and sliced. 
+* 1/3 cup brown sugar (packed)
+* 2 or 3 tablespoons of butter
+* 1 level teaspoon cinnamon
+* 4 extra large eggs
+* 1 level cup flour
+* 1 cup whole milk
+* 1 level teaspoon baking powder 
 
 Preheat oven to 400 degrees 
 
