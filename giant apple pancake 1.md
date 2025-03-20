@@ -11,6 +11,8 @@
 * 1 cup whole milk
 * 1 level teaspoon baking powder 
 
+## Directions
+
 Preheat oven to 400 degrees 
 
 In a 12" cast iron pan (if possible) combine apples, brown sugar, butter and cinnamon and cook over med-high heat for about 6 or 7 minutes. 
