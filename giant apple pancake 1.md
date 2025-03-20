@@ -1,6 +1,6 @@
-#GIANT APPLE PANCAKE #1
+# GIANT APPLE PANCAKE #1
 
-##Ingredients
+## Ingredients
 
 * 2 granny smith apples peeled , cored and sliced. 
 * 1/3 cup brown sugar (packed)
