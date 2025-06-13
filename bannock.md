@@ -18,3 +18,26 @@ Turn dough out on a lightly floured surface and knead gently about 10 times. Pat
 Cook in a greased frying pan over medium heat allowing about 15 minutes for each side. Use 2 lifters for easy turning. 
 
 May also be baked on a greased baking sheet at 350 degrees f (175 degrees c) for 25 to 30 minutes.
+
+
+-----------
+
+## Slightly different recipe
+
+## Ingredients
+
+* 3 cups all-purpose flour
+* 1 teaspoon salt
+* 2 tablespoons baking powder
+* 1 tablespoon sugar
+* 1/4 cup butter, melted
+* 1 1/2 cups water
+
+
+## Directions
+
+Measure flour, salt, and baking powder into a large bowl. Stir to mix. Pour melted butter and water over flour mixture. Stir with fork to make a ball.
+
+Turn dough out on a lightly floured surface, and knead gently about 10 times. Pat into a flat circle 3/4 to 1 inch thick.
+
+Baked on a greased baking sheet at 350 degrees F for 25 min.
