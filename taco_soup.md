@@ -35,6 +35,3 @@ _Serve with sour cream, tortilla chips, and a sprinkle shredded cheese on top._
 In a large saucepan brown beef and onion. Add tomatoes in their liquid, add to pan with
 tomato sauce, water, beans, corn and taco seasoning. Bring to a boil. reduce heat and simmer
 5 min. Top with shredded cheese.
-
-test
-test2
